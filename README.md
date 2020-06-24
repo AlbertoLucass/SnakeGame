@@ -1,2 +1,3 @@
 # SnakeGame
-Criando jogo clássico da Cobrinha
+Desafio prático fundamentado pela Digital Innovation One.
+Recriando o jogo da cobrinha!!
