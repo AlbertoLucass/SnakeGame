@@ -1,3 +1,18 @@
 body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     
+}
+
+.titulo {
+    color: rgb(94, 124, 206);
+}
+
+.nome {
+    color:black;
+    padding-top: 10px;
 }
