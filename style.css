@@ -1,7 +1,7 @@
 body{
     height: 95vh;
     width: 95;
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -15,4 +15,9 @@ body{
 .nome {
     color:black;
     padding-top: 10px;
+}
+
+.pontuacao{
+    margin-left: 750px;
+    font-size: 15px;
 }
