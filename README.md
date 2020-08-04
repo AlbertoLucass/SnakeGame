@@ -3,7 +3,7 @@ Desafio prático fundamentado pela [Digital Innovation One.](https://digitalinno
   
 Recriando o jogo da cobrinha utilizando JavaScript!!
 
-jogo -> https://albertolucasdatrindade.github.io/SnakeGame/
+jogo -> https://albertolucass.github.io/SnakeGame/
 
 
 
